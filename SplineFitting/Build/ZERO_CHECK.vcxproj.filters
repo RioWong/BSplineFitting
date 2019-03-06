@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\BSplineFitting-master\SplineFitting\Build\CMakeFiles\fe6bc2a1dea3f80a65c850554ebe076d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A64E987F-65AF-39B5-8F7A-0152080C9F2B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

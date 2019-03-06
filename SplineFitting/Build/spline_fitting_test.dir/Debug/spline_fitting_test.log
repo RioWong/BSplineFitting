@@ -1,0 +1,29 @@
+﻿生成启动时间为 12/27/2017 2:18:09 PM。
+     1>项目“E:\BSplineFitting-master\SplineFitting\Build\spline_fitting_test.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Building Custom Rule E:/BSplineFitting-master/SplineFitting/CMakeLists.txt
+         CMake does not need to re-run because E:/BSplineFitting-master/SplineFitting/Build/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"E:\BSplineFitting-master\SplineFitting\core" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"spline_fitting_test.dir\Debug\\" /Fd"spline_fitting_test.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "E:\BSplineFitting-master\SplineFitting\core\cubic_b_spline.cpp" "E:\BSplineFitting-master\SplineFitting\core\spline_curve_fitting.cpp" "E:\BSplineFitting-master\SplineFitting\read_write_asc.cpp" "E:\BSplineFitting-master\SplineFitting\main.cpp"
+         cubic_b_spline.cpp
+     1>e:\bsplinefitting-master\splinefitting\core\cubic_b_spline.h(17): fatal error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+         spline_curve_fitting.cpp
+     1>e:\bsplinefitting-master\splinefitting\core\cubic_b_spline.h(17): fatal error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+         read_write_asc.cpp
+     1>e:\bsplinefitting-master\splinefitting\read_write_asc.h(6): fatal error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+         main.cpp
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): error C2018: 未知字符“0x14”
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): error C2014: 预处理器命令必须作为第一个非空白空间启动
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): error C2018: 未知字符“0x1”
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): error C2146: 语法错误: 缺少“;”(在标识符“E”的前面)
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): error C2143: 语法错误 : 缺少“;”(在“-”的前面)
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): error C2018: 未知字符“0x16”
+     1>E:\BSplineFitting-master\SplineFitting\main.cpp(1): fatal error C1004: 发现意外的文件尾
+         正在生成代码...
+     1>已完成生成项目“E:\BSplineFitting-master\SplineFitting\Build\spline_fitting_test.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.87
